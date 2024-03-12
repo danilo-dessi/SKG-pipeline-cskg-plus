@@ -7,7 +7,7 @@ The paper accompanying this repository is still under review. The details will b
 
 ## How to use
 
-The pipeline in this github repository is a variant to work with OpenAlex data of [SKG-pipeline](https://github.com/danilo-dessi/SKG-pipeline). Here you can find the steps you can follow on your data. 
+The pipeline in this github repository is a variant to work with OpenAlex data of [SKG-pipeline](https://github.com/danilo-dessi/SKG-pipeline). Here you can find the steps you can follow on your data. For any missing file, please refer to [SKG-pipeline](https://github.com/danilo-dessi/SKG-pipeline).
 
 **Note:** We can only provide a sample of the data to test the pipeline. The full data belongs to [OpenAlex](https://openalex.org/). The sample of data contains research papers that were randomly selected.
 
